@@ -1,0 +1,27 @@
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.button {
+	text-decoration: none;
+	padding: 10px 15px;
+	color: white;
+	border-radius: 5px;
+	font-family: Arial, Helvetica, sans-serif; 
+}
+
+.button.green {
+	
+	background-color: green;
+}
+
+.button.orange {
+	background-color: orange;
+}
+
+.fa {
+	padding-right: 4px;
+	margin-top: 25px;
+}
+
+.buttonWrapper {
+	margin-left: 90px;
+}
